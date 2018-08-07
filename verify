@@ -1,0 +1,23 @@
+    0:d=0  hl=2 l=  54 cons: SEQUENCE          
+    2:d=1  hl=2 l=   1 prim: INTEGER           :00
+    5:d=1  hl=2 l=   7 prim: INTEGER           :01C91376BE85F9
+   14:d=1  hl=2 l=   4 prim: INTEGER           :01381CBC
+   20:d=1  hl=2 l=   4 prim: INTEGER           :1EC0F043
+   26:d=1  hl=2 l=   4 prim: INTEGER           :01EF30EB
+   32:d=1  hl=2 l=   4 prim: INTEGER           :EC4BAB
+   38:d=1  hl=2 l=   4 prim: INTEGER           :01381CBC
+   44:d=1  hl=2 l=   4 prim: INTEGER           :1EC0F043
+   50:d=1  hl=2 l=   4 prim: INTEGER           :D90389
+Private-Key: (49 bit)
+modulus: 502560410469881 (0x1c91376be85f9)
+publicExponent: 20454588 (0x1381cbc)
+privateExponent: 515960899 (0x1ec0f043)
+prime1: 32452843 (0x1ef30eb)
+prime2: 15485867 (0xec4bab)
+exponent1: 20454588 (0x1381cbc)
+exponent2: 515960899 (0x1ec0f043)
+coefficient: 14222217 (0xd90389)
+-----BEGIN RSA PRIVATE KEY-----
+MDYCAQACBwHJE3a+hfkCBAE4HLwCBB7A8EMCBAHvMOsCBADsS6sCBAE4HLwCBB7A
+8EMCBADZA4k=
+-----END RSA PRIVATE KEY-----

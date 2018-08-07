@@ -1,0 +1,4 @@
+openssl asn1parse -genconf good.asn1 -out good.der
+openssl rsa -inform DER -in good.der -text > priv.key
+openssl rsa -inform DER -in good.der -pubout > pub.key
+
