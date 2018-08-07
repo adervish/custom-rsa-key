@@ -1,5 +1,6 @@
 # custom-rsa-key
 
+```asn1
 asn1=SEQUENCE:rsa_key
 
 [rsa_key]
@@ -14,5 +15,5 @@ e2=INTEGER:515960899
 coeff=INTEGER:14222217 -- invmod(q,p)
 
 -- pubExp and privExp are two numbers such that e1 * e2 mod 1 = (p-1)*(q-1) I used this to find them https://www.cs.drexel.edu/~jpopyack/IntroCS/HW/RSAWorksheet.html
-
+```
 
